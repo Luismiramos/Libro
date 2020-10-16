@@ -1,6 +1,6 @@
 # PROYECTOS DOMÓTICOS - IoT con Raspberry, Arduino y ESP8266
 
-Introducción 
+    # Introducción 
 	Desde que internet se ha adueñado de los hogares, cada vez está más presente en toda la casa, 
     ya no solamente en los ordenadores, sino que poco a poco se está imponiendo en la televisión, 
     los electrodomésticos, las luces y el resto de las cosas del hogar.
@@ -21,7 +21,7 @@ Introducción
     de Apple, Alexa de Amazon, Google Assistant de Google, o Cortana de Microsoft, a los que también 
     se les puede encargar el control del hogar.
 
-Descripción del contenido
+    # Descripción del contenido
 	En este libro se pretende dar los conocimientos y herramientas necesarios para instalar elementos 
     de domótica en un hogar, utilizando la tecnología de internet de las cosas, en adelante IoT 
     (Internet of Things), o sea, la interconexión de distintos dispositivos y objetos mediante Internet 
@@ -30,7 +30,7 @@ Descripción del contenido
     imaginación, ya que el objetivo es que las máquinas i los objetos interaccionen entre ellos, lo que 
     se conoce como M2M (machine to machine) interacción máquina máquina.
 
-Alcance
+    # Alcance
 	Ya que las alternativas son muchas, en este libro se buscará ser capaz de entender cómo se conectan 
     las máquinas y como interaccionan entre ellas. Recorriendo para ello todos los pasos necesarios 
     para conseguir este objetivo. Por lo tanto se estudiará, qué dispositivos son los más adecuados, 
