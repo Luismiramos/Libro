@@ -1,6 +1,6 @@
 # PROYECTOS DOMÓTICOS - IoT con Raspberry, Arduino y ESP8266
 
-1.1	Introducción --->
+# 1.1	Introducción --->
 	Desde que internet se ha adueñado de los hogares, cada vez está más presente en toda la casa, ya no solamente en los ordenadores, sino que poco a poco se está imponiendo en la televisión, los electrodomésticos, las luces y el resto de las cosas del hogar.
 	Se podría definir Internet de las cosas como la conexión de todos estos objetos a una red que los alojase y que los conectara al mundo a través de Internet.
 	Hoy día la domótica (del latín domus y griego automática) casa automática, está en auge, cada vez está más demandado, pero las instalaciones domóticas son mucha más factibles si se realizan con la obra de la casa, por lo que domotizar una casa que no se ha preparado para ello, tiene un coste mucho mayor.
